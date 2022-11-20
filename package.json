@@ -1,12 +1,13 @@
 {
   "name": "json-sql-to-go",
   "displayName": "json-sql-to-go",
+  "description": "Convert JSON/SQL to GO struct",
   "author": {
     "name": "zefzhou44",
     "email": "zefzhou44@gmail.com"
   },
+  "repository": "https://github.com/zefzhou/json-sql-to-go",
   "publisher": "zefzhou44",
-  "description": "Convert JSON/SQL to GO struct",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.73.0"
