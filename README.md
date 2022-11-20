@@ -23,7 +23,7 @@ You can choose inside which languages to show the context menu with the followin
 Include `"*"` if you want the context menu to always be shown.
 Default values are below.
 ```json
-"json-to-go.contextMenu.supportedLanguages": [
+"json2go.contextMenu.supportedLanguages": [
         "javascript",
         "typescript",
         "json",
